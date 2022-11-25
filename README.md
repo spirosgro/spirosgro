@@ -6,6 +6,6 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="400" height="400">
 
 Visitor count<br>
-  <p allign="center">
+<p align="center">
   <img src="https://profile-counter.glitch.me/SpirosGrouztidis/count.svg" />
 </p>
