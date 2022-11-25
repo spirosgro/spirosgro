@@ -1,13 +1,13 @@
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=SpirosGrouztidis&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=SpiroGrouztidis&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=SpirosGrouztidis&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosGrouztidis&layout=compact&theme=merko">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpirosGrouztidis&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpirosGrouztidis&repo=atm-emulator&theme=merko">
 
 <!--🖼️ILOVEOPENSOURCE-->
 
