@@ -1,8 +1,5 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
+<!--🖼️ILOVEOPENSOURCE-->
+<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+Visitor count<br>
   <img src="https://profile-counter.glitch.me/SpirosGrouztidis/count.svg" />
 </p>
