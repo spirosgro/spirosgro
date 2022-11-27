@@ -2,10 +2,10 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/SpirosGrouztidis/atm-emulator"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosGrouztidis&layout=compact&theme=merko">
+<a href="https://github.com/spirosgro/atm-emulator"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirosgro&layout=compact&theme=merko">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpirosGrouztidis&repo=atm-emulator&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spirosgro&repo=atm-emulator&theme=merko">
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
@@ -13,5 +13,5 @@
 
 Visitor count<br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/SpirosGrouztidis/count.svg" />
+  <img src="https://profile-counter.glitch.me/spirosgro/count.svg" />
 </p>
