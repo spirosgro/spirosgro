@@ -4,7 +4,7 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirosgro&layout=compact&theme=merko">
+<a href="https://github.com/spirosgro/atm-emulator"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirosgro&layout=compact&theme=merko">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=spirosgro&repo=atom-emulator&theme=merko">
