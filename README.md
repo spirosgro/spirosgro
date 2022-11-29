@@ -7,7 +7,7 @@
 <a href="https://github.com/SpirosGrouztidis/atm-emulator"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosGrouztidis&layout=compact&theme=merko">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spirosgro&repo=atom-emulator&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spirosgro&repo=atm-emulator&theme=merko">
 
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
