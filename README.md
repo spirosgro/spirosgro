@@ -3,7 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=spirosgro&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=spirosgro&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 
 
-
+<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
