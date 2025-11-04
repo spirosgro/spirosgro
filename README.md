@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://spirosgrouztidis.github.io" target="_blank">
+  <a href="https://spirosgro.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-0B3D91?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/spirosgrouztidis/" target="_blank">
